@@ -1,4 +1,4 @@
-class Algorithm_1{
+class Algorithm_Q1{
 
 public static void main(String[] args) {
     int target = 9;
